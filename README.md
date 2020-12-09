@@ -5,9 +5,9 @@ This project aims to develop an end-to-end software to detect and raise alert on
 
 ## Table of Contents
 * [Introduction](#introduction)
+* [Illustrations](#illustrations)
 * [Technologies](#technologies)
 * [Functionalities](#functionalities)
-* [Illustrations](#illustrations)
 * [Setup](#setup)
 
 
@@ -19,7 +19,21 @@ Therefore, to ensure the social distancing is followed and maintained in workpla
 
 
 ## Illustrations
+Snapshots of the Project after completion:
+- Application  
+![](output/Application.png)
 
+- Menu Bar  
+<img src="output/MenuBar.png" width="250" /> 
+
+- New Camera  
+<img src="output/NewCamera.png" height="400" />
+
+- Edit Camera  
+<img src="output/EditCamera.png" height="150" />
+
+- Remove Camera  
+<img src="output/Remove%20Camera.png" height="150" />
 
 ## Technologies
 The implementation of the project was done using the following programming languages and libraries:
